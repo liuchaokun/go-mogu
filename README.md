@@ -12,7 +12,7 @@
 - [ ] 日志记录
 
 
-测试单个函数(去除cached)
+测试单个函数(去除cached) 
 ```bash
 go test -count=1 -v -run ^TestWeek$ towelong/mogu/test
 ```
